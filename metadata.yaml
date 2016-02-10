@@ -1,0 +1,48 @@
+_repo: The-Queen-s-Daughters-in-India_47288
+contributor:
+  commentators:
+  - agent_name: Butler, Josephine Elizabeth Grey
+    alias: Butler, Josephine E.
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '5456'
+    url: http://www.gutenberg.org/2009/agents/5456
+    wikipedia: http://en.wikipedia.org/wiki/Josephine_Butler
+  - agent_name: Wilson, Henry J.
+    alias: Wilson, Henry Joseph
+    birthdate: 1833
+    deathdate: 1914
+    gutenberg_agent_id: '44236'
+    url: http://www.gutenberg.org/2009/agents/44236
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Wilson_%28Yorkshire_politician%29
+creator:
+  authors:
+  - agent_name: Bushnell, Katharine C. (Katharine Caroline)
+    aliases:
+    - Bushnell, Katharine Caroline
+    - Bushnell, Katherine Caroline
+    birthdate: 1855
+    deathdate: 1946
+    gutenberg_agent_id: '4645'
+    url: http://www.gutenberg.org/2009/agents/4645
+  - agent_name: Andrew, Elizabeth W.
+    birthdate: 1882
+    deathdate: 1960
+    gutenberg_agent_id: '44233'
+    url: http://www.gutenberg.org/2009/agents/44233
+description: ''
+gutenberg_issued: '2014-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47288'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Prostitution -- India'
+- !lcsh 'Women -- India -- Social conditions'
+- !lcsh 'Women -- India -- Conduct of life'
+title: The Queen's Daughters in India
+url: http://www.gutenberg.org/ebooks/47288
