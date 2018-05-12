@@ -1,4 +1,5 @@
 _repo: The-Queen-s-Daughters-in-India_47288
+_version: 0.1.0
 contributor:
   commentators:
   - agent_name: Butler, Josephine Elizabeth Grey
@@ -15,6 +16,9 @@ contributor:
     gutenberg_agent_id: '44236'
     url: http://www.gutenberg.org/2009/agents/44236
     wikipedia: http://en.wikipedia.org/wiki/Henry_Wilson_%28Yorkshire_politician%29
+covers:
+- cover_type: archival
+  image_path: 47288-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Bushnell, Katharine C. (Katharine Caroline)
@@ -31,6 +35,8 @@ creator:
     gutenberg_agent_id: '44233'
     url: http://www.gutenberg.org/2009/agents/44233
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47288#The-Queen-s-Daughters-in-India
 gutenberg_issued: '2014-11-04'
 gutenberg_type: Text
 identifiers:
